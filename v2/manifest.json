@@ -1,0 +1,1246 @@
+{
+ "positions": [
+  0.0,
+  0.1,
+  0.25,
+  0.4,
+  0.5,
+  0.6,
+  0.75,
+  0.9,
+  1.0
+ ],
+ "lure_positions": [
+  0.18,
+  0.55,
+  0.83
+ ],
+ "pages": [
+  {
+   "file": "q01_pos000.html",
+   "qid": "q01",
+   "condition": "position",
+   "target_pos": 0.0,
+   "actual_pos": 0.002,
+   "chars": 29509
+  },
+  {
+   "file": "q01_pos010.html",
+   "qid": "q01",
+   "condition": "position",
+   "target_pos": 0.1,
+   "actual_pos": 0.104,
+   "chars": 29509
+  },
+  {
+   "file": "q01_pos025.html",
+   "qid": "q01",
+   "condition": "position",
+   "target_pos": 0.25,
+   "actual_pos": 0.253,
+   "chars": 29509
+  },
+  {
+   "file": "q01_pos040.html",
+   "qid": "q01",
+   "condition": "position",
+   "target_pos": 0.4,
+   "actual_pos": 0.401,
+   "chars": 29509
+  },
+  {
+   "file": "q01_pos050.html",
+   "qid": "q01",
+   "condition": "position",
+   "target_pos": 0.5,
+   "actual_pos": 0.5,
+   "chars": 29509
+  },
+  {
+   "file": "q01_pos060.html",
+   "qid": "q01",
+   "condition": "position",
+   "target_pos": 0.6,
+   "actual_pos": 0.602,
+   "chars": 29509
+  },
+  {
+   "file": "q01_pos075.html",
+   "qid": "q01",
+   "condition": "position",
+   "target_pos": 0.75,
+   "actual_pos": 0.751,
+   "chars": 29509
+  },
+  {
+   "file": "q01_pos090.html",
+   "qid": "q01",
+   "condition": "position",
+   "target_pos": 0.9,
+   "actual_pos": 0.901,
+   "chars": 29509
+  },
+  {
+   "file": "q01_pos100.html",
+   "qid": "q01",
+   "condition": "position",
+   "target_pos": 1.0,
+   "actual_pos": 0.999,
+   "chars": 29509
+  },
+  {
+   "file": "q01_summary_lure.html",
+   "qid": "q01",
+   "condition": "summary_lure",
+   "target_pos": 1.0,
+   "actual_pos": 0.999,
+   "chars": 29529
+  },
+  {
+   "file": "q01_summary_only.html",
+   "qid": "q01",
+   "condition": "summary_only",
+   "target_pos": null,
+   "actual_pos": null,
+   "chars": 29456
+  },
+  {
+   "file": "q02_pos000.html",
+   "qid": "q02",
+   "condition": "position",
+   "target_pos": 0.0,
+   "actual_pos": 0.001,
+   "chars": 29493
+  },
+  {
+   "file": "q02_pos010.html",
+   "qid": "q02",
+   "condition": "position",
+   "target_pos": 0.1,
+   "actual_pos": 0.104,
+   "chars": 29493
+  },
+  {
+   "file": "q02_pos025.html",
+   "qid": "q02",
+   "condition": "position",
+   "target_pos": 0.25,
+   "actual_pos": 0.253,
+   "chars": 29493
+  },
+  {
+   "file": "q02_pos040.html",
+   "qid": "q02",
+   "condition": "position",
+   "target_pos": 0.4,
+   "actual_pos": 0.401,
+   "chars": 29493
+  },
+  {
+   "file": "q02_pos050.html",
+   "qid": "q02",
+   "condition": "position",
+   "target_pos": 0.5,
+   "actual_pos": 0.5,
+   "chars": 29493
+  },
+  {
+   "file": "q02_pos060.html",
+   "qid": "q02",
+   "condition": "position",
+   "target_pos": 0.6,
+   "actual_pos": 0.602,
+   "chars": 29493
+  },
+  {
+   "file": "q02_pos075.html",
+   "qid": "q02",
+   "condition": "position",
+   "target_pos": 0.75,
+   "actual_pos": 0.751,
+   "chars": 29493
+  },
+  {
+   "file": "q02_pos090.html",
+   "qid": "q02",
+   "condition": "position",
+   "target_pos": 0.9,
+   "actual_pos": 0.9,
+   "chars": 29493
+  },
+  {
+   "file": "q02_pos100.html",
+   "qid": "q02",
+   "condition": "position",
+   "target_pos": 1.0,
+   "actual_pos": 0.999,
+   "chars": 29493
+  },
+  {
+   "file": "q02_summary_lure.html",
+   "qid": "q02",
+   "condition": "summary_lure",
+   "target_pos": 1.0,
+   "actual_pos": 0.999,
+   "chars": 29517
+  },
+  {
+   "file": "q02_summary_only.html",
+   "qid": "q02",
+   "condition": "summary_only",
+   "target_pos": null,
+   "actual_pos": null,
+   "chars": 29442
+  },
+  {
+   "file": "q03_pos000.html",
+   "qid": "q03",
+   "condition": "position",
+   "target_pos": 0.0,
+   "actual_pos": 0.001,
+   "chars": 29466
+  },
+  {
+   "file": "q03_pos010.html",
+   "qid": "q03",
+   "condition": "position",
+   "target_pos": 0.1,
+   "actual_pos": 0.104,
+   "chars": 29466
+  },
+  {
+   "file": "q03_pos025.html",
+   "qid": "q03",
+   "condition": "position",
+   "target_pos": 0.25,
+   "actual_pos": 0.253,
+   "chars": 29466
+  },
+  {
+   "file": "q03_pos040.html",
+   "qid": "q03",
+   "condition": "position",
+   "target_pos": 0.4,
+   "actual_pos": 0.401,
+   "chars": 29466
+  },
+  {
+   "file": "q03_pos050.html",
+   "qid": "q03",
+   "condition": "position",
+   "target_pos": 0.5,
+   "actual_pos": 0.5,
+   "chars": 29466
+  },
+  {
+   "file": "q03_pos060.html",
+   "qid": "q03",
+   "condition": "position",
+   "target_pos": 0.6,
+   "actual_pos": 0.602,
+   "chars": 29466
+  },
+  {
+   "file": "q03_pos075.html",
+   "qid": "q03",
+   "condition": "position",
+   "target_pos": 0.75,
+   "actual_pos": 0.751,
+   "chars": 29466
+  },
+  {
+   "file": "q03_pos090.html",
+   "qid": "q03",
+   "condition": "position",
+   "target_pos": 0.9,
+   "actual_pos": 0.9,
+   "chars": 29466
+  },
+  {
+   "file": "q03_pos100.html",
+   "qid": "q03",
+   "condition": "position",
+   "target_pos": 1.0,
+   "actual_pos": 0.999,
+   "chars": 29466
+  },
+  {
+   "file": "q03_summary_lure.html",
+   "qid": "q03",
+   "condition": "summary_lure",
+   "target_pos": 1.0,
+   "actual_pos": 0.999,
+   "chars": 29486
+  },
+  {
+   "file": "q03_summary_only.html",
+   "qid": "q03",
+   "condition": "summary_only",
+   "target_pos": null,
+   "actual_pos": null,
+   "chars": 29407
+  },
+  {
+   "file": "q04_pos000.html",
+   "qid": "q04",
+   "condition": "position",
+   "target_pos": 0.0,
+   "actual_pos": 0.002,
+   "chars": 29477
+  },
+  {
+   "file": "q04_pos010.html",
+   "qid": "q04",
+   "condition": "position",
+   "target_pos": 0.1,
+   "actual_pos": 0.104,
+   "chars": 29477
+  },
+  {
+   "file": "q04_pos025.html",
+   "qid": "q04",
+   "condition": "position",
+   "target_pos": 0.25,
+   "actual_pos": 0.253,
+   "chars": 29477
+  },
+  {
+   "file": "q04_pos040.html",
+   "qid": "q04",
+   "condition": "position",
+   "target_pos": 0.4,
+   "actual_pos": 0.401,
+   "chars": 29477
+  },
+  {
+   "file": "q04_pos050.html",
+   "qid": "q04",
+   "condition": "position",
+   "target_pos": 0.5,
+   "actual_pos": 0.5,
+   "chars": 29477
+  },
+  {
+   "file": "q04_pos060.html",
+   "qid": "q04",
+   "condition": "position",
+   "target_pos": 0.6,
+   "actual_pos": 0.602,
+   "chars": 29477
+  },
+  {
+   "file": "q04_pos075.html",
+   "qid": "q04",
+   "condition": "position",
+   "target_pos": 0.75,
+   "actual_pos": 0.751,
+   "chars": 29477
+  },
+  {
+   "file": "q04_pos090.html",
+   "qid": "q04",
+   "condition": "position",
+   "target_pos": 0.9,
+   "actual_pos": 0.9,
+   "chars": 29477
+  },
+  {
+   "file": "q04_pos100.html",
+   "qid": "q04",
+   "condition": "position",
+   "target_pos": 1.0,
+   "actual_pos": 0.999,
+   "chars": 29477
+  },
+  {
+   "file": "q04_summary_lure.html",
+   "qid": "q04",
+   "condition": "summary_lure",
+   "target_pos": 1.0,
+   "actual_pos": 0.999,
+   "chars": 29493
+  },
+  {
+   "file": "q04_summary_only.html",
+   "qid": "q04",
+   "condition": "summary_only",
+   "target_pos": null,
+   "actual_pos": null,
+   "chars": 29412
+  },
+  {
+   "file": "q05_pos000.html",
+   "qid": "q05",
+   "condition": "position",
+   "target_pos": 0.0,
+   "actual_pos": 0.002,
+   "chars": 29508
+  },
+  {
+   "file": "q05_pos010.html",
+   "qid": "q05",
+   "condition": "position",
+   "target_pos": 0.1,
+   "actual_pos": 0.104,
+   "chars": 29508
+  },
+  {
+   "file": "q05_pos025.html",
+   "qid": "q05",
+   "condition": "position",
+   "target_pos": 0.25,
+   "actual_pos": 0.253,
+   "chars": 29508
+  },
+  {
+   "file": "q05_pos040.html",
+   "qid": "q05",
+   "condition": "position",
+   "target_pos": 0.4,
+   "actual_pos": 0.402,
+   "chars": 29508
+  },
+  {
+   "file": "q05_pos050.html",
+   "qid": "q05",
+   "condition": "position",
+   "target_pos": 0.5,
+   "actual_pos": 0.5,
+   "chars": 29508
+  },
+  {
+   "file": "q05_pos060.html",
+   "qid": "q05",
+   "condition": "position",
+   "target_pos": 0.6,
+   "actual_pos": 0.602,
+   "chars": 29508
+  },
+  {
+   "file": "q05_pos075.html",
+   "qid": "q05",
+   "condition": "position",
+   "target_pos": 0.75,
+   "actual_pos": 0.751,
+   "chars": 29508
+  },
+  {
+   "file": "q05_pos090.html",
+   "qid": "q05",
+   "condition": "position",
+   "target_pos": 0.9,
+   "actual_pos": 0.9,
+   "chars": 29508
+  },
+  {
+   "file": "q05_pos100.html",
+   "qid": "q05",
+   "condition": "position",
+   "target_pos": 1.0,
+   "actual_pos": 0.999,
+   "chars": 29508
+  },
+  {
+   "file": "q05_summary_lure.html",
+   "qid": "q05",
+   "condition": "summary_lure",
+   "target_pos": 1.0,
+   "actual_pos": 0.999,
+   "chars": 29530
+  },
+  {
+   "file": "q05_summary_only.html",
+   "qid": "q05",
+   "condition": "summary_only",
+   "target_pos": null,
+   "actual_pos": null,
+   "chars": 29449
+  },
+  {
+   "file": "q06_pos000.html",
+   "qid": "q06",
+   "condition": "position",
+   "target_pos": 0.0,
+   "actual_pos": 0.002,
+   "chars": 29523
+  },
+  {
+   "file": "q06_pos010.html",
+   "qid": "q06",
+   "condition": "position",
+   "target_pos": 0.1,
+   "actual_pos": 0.104,
+   "chars": 29523
+  },
+  {
+   "file": "q06_pos025.html",
+   "qid": "q06",
+   "condition": "position",
+   "target_pos": 0.25,
+   "actual_pos": 0.253,
+   "chars": 29523
+  },
+  {
+   "file": "q06_pos040.html",
+   "qid": "q06",
+   "condition": "position",
+   "target_pos": 0.4,
+   "actual_pos": 0.401,
+   "chars": 29523
+  },
+  {
+   "file": "q06_pos050.html",
+   "qid": "q06",
+   "condition": "position",
+   "target_pos": 0.5,
+   "actual_pos": 0.5,
+   "chars": 29523
+  },
+  {
+   "file": "q06_pos060.html",
+   "qid": "q06",
+   "condition": "position",
+   "target_pos": 0.6,
+   "actual_pos": 0.602,
+   "chars": 29523
+  },
+  {
+   "file": "q06_pos075.html",
+   "qid": "q06",
+   "condition": "position",
+   "target_pos": 0.75,
+   "actual_pos": 0.75,
+   "chars": 29523
+  },
+  {
+   "file": "q06_pos090.html",
+   "qid": "q06",
+   "condition": "position",
+   "target_pos": 0.9,
+   "actual_pos": 0.9,
+   "chars": 29523
+  },
+  {
+   "file": "q06_pos100.html",
+   "qid": "q06",
+   "condition": "position",
+   "target_pos": 1.0,
+   "actual_pos": 0.998,
+   "chars": 29523
+  },
+  {
+   "file": "q06_summary_lure.html",
+   "qid": "q06",
+   "condition": "summary_lure",
+   "target_pos": 1.0,
+   "actual_pos": 0.998,
+   "chars": 29549
+  },
+  {
+   "file": "q06_summary_only.html",
+   "qid": "q06",
+   "condition": "summary_only",
+   "target_pos": null,
+   "actual_pos": null,
+   "chars": 29461
+  },
+  {
+   "file": "q07_pos000.html",
+   "qid": "q07",
+   "condition": "position",
+   "target_pos": 0.0,
+   "actual_pos": 0.001,
+   "chars": 29497
+  },
+  {
+   "file": "q07_pos010.html",
+   "qid": "q07",
+   "condition": "position",
+   "target_pos": 0.1,
+   "actual_pos": 0.104,
+   "chars": 29497
+  },
+  {
+   "file": "q07_pos025.html",
+   "qid": "q07",
+   "condition": "position",
+   "target_pos": 0.25,
+   "actual_pos": 0.253,
+   "chars": 29497
+  },
+  {
+   "file": "q07_pos040.html",
+   "qid": "q07",
+   "condition": "position",
+   "target_pos": 0.4,
+   "actual_pos": 0.401,
+   "chars": 29497
+  },
+  {
+   "file": "q07_pos050.html",
+   "qid": "q07",
+   "condition": "position",
+   "target_pos": 0.5,
+   "actual_pos": 0.5,
+   "chars": 29497
+  },
+  {
+   "file": "q07_pos060.html",
+   "qid": "q07",
+   "condition": "position",
+   "target_pos": 0.6,
+   "actual_pos": 0.602,
+   "chars": 29497
+  },
+  {
+   "file": "q07_pos075.html",
+   "qid": "q07",
+   "condition": "position",
+   "target_pos": 0.75,
+   "actual_pos": 0.751,
+   "chars": 29497
+  },
+  {
+   "file": "q07_pos090.html",
+   "qid": "q07",
+   "condition": "position",
+   "target_pos": 0.9,
+   "actual_pos": 0.9,
+   "chars": 29497
+  },
+  {
+   "file": "q07_pos100.html",
+   "qid": "q07",
+   "condition": "position",
+   "target_pos": 1.0,
+   "actual_pos": 0.999,
+   "chars": 29497
+  },
+  {
+   "file": "q07_summary_lure.html",
+   "qid": "q07",
+   "condition": "summary_lure",
+   "target_pos": 1.0,
+   "actual_pos": 0.999,
+   "chars": 29513
+  },
+  {
+   "file": "q07_summary_only.html",
+   "qid": "q07",
+   "condition": "summary_only",
+   "target_pos": null,
+   "actual_pos": null,
+   "chars": 29439
+  },
+  {
+   "file": "q08_pos000.html",
+   "qid": "q08",
+   "condition": "position",
+   "target_pos": 0.0,
+   "actual_pos": 0.002,
+   "chars": 29500
+  },
+  {
+   "file": "q08_pos010.html",
+   "qid": "q08",
+   "condition": "position",
+   "target_pos": 0.1,
+   "actual_pos": 0.104,
+   "chars": 29500
+  },
+  {
+   "file": "q08_pos025.html",
+   "qid": "q08",
+   "condition": "position",
+   "target_pos": 0.25,
+   "actual_pos": 0.253,
+   "chars": 29500
+  },
+  {
+   "file": "q08_pos040.html",
+   "qid": "q08",
+   "condition": "position",
+   "target_pos": 0.4,
+   "actual_pos": 0.401,
+   "chars": 29500
+  },
+  {
+   "file": "q08_pos050.html",
+   "qid": "q08",
+   "condition": "position",
+   "target_pos": 0.5,
+   "actual_pos": 0.5,
+   "chars": 29500
+  },
+  {
+   "file": "q08_pos060.html",
+   "qid": "q08",
+   "condition": "position",
+   "target_pos": 0.6,
+   "actual_pos": 0.602,
+   "chars": 29500
+  },
+  {
+   "file": "q08_pos075.html",
+   "qid": "q08",
+   "condition": "position",
+   "target_pos": 0.75,
+   "actual_pos": 0.751,
+   "chars": 29500
+  },
+  {
+   "file": "q08_pos090.html",
+   "qid": "q08",
+   "condition": "position",
+   "target_pos": 0.9,
+   "actual_pos": 0.9,
+   "chars": 29500
+  },
+  {
+   "file": "q08_pos100.html",
+   "qid": "q08",
+   "condition": "position",
+   "target_pos": 1.0,
+   "actual_pos": 0.999,
+   "chars": 29500
+  },
+  {
+   "file": "q08_summary_lure.html",
+   "qid": "q08",
+   "condition": "summary_lure",
+   "target_pos": 1.0,
+   "actual_pos": 0.999,
+   "chars": 29524
+  },
+  {
+   "file": "q08_summary_only.html",
+   "qid": "q08",
+   "condition": "summary_only",
+   "target_pos": null,
+   "actual_pos": null,
+   "chars": 29440
+  },
+  {
+   "file": "q09_pos000.html",
+   "qid": "q09",
+   "condition": "position",
+   "target_pos": 0.0,
+   "actual_pos": 0.001,
+   "chars": 29466
+  },
+  {
+   "file": "q09_pos010.html",
+   "qid": "q09",
+   "condition": "position",
+   "target_pos": 0.1,
+   "actual_pos": 0.104,
+   "chars": 29466
+  },
+  {
+   "file": "q09_pos025.html",
+   "qid": "q09",
+   "condition": "position",
+   "target_pos": 0.25,
+   "actual_pos": 0.253,
+   "chars": 29466
+  },
+  {
+   "file": "q09_pos040.html",
+   "qid": "q09",
+   "condition": "position",
+   "target_pos": 0.4,
+   "actual_pos": 0.401,
+   "chars": 29466
+  },
+  {
+   "file": "q09_pos050.html",
+   "qid": "q09",
+   "condition": "position",
+   "target_pos": 0.5,
+   "actual_pos": 0.5,
+   "chars": 29466
+  },
+  {
+   "file": "q09_pos060.html",
+   "qid": "q09",
+   "condition": "position",
+   "target_pos": 0.6,
+   "actual_pos": 0.601,
+   "chars": 29466
+  },
+  {
+   "file": "q09_pos075.html",
+   "qid": "q09",
+   "condition": "position",
+   "target_pos": 0.75,
+   "actual_pos": 0.751,
+   "chars": 29466
+  },
+  {
+   "file": "q09_pos090.html",
+   "qid": "q09",
+   "condition": "position",
+   "target_pos": 0.9,
+   "actual_pos": 0.9,
+   "chars": 29466
+  },
+  {
+   "file": "q09_pos100.html",
+   "qid": "q09",
+   "condition": "position",
+   "target_pos": 1.0,
+   "actual_pos": 0.999,
+   "chars": 29466
+  },
+  {
+   "file": "q09_summary_lure.html",
+   "qid": "q09",
+   "condition": "summary_lure",
+   "target_pos": 1.0,
+   "actual_pos": 0.999,
+   "chars": 29481
+  },
+  {
+   "file": "q09_summary_only.html",
+   "qid": "q09",
+   "condition": "summary_only",
+   "target_pos": null,
+   "actual_pos": null,
+   "chars": 29410
+  },
+  {
+   "file": "q10_pos000.html",
+   "qid": "q10",
+   "condition": "position",
+   "target_pos": 0.0,
+   "actual_pos": 0.002,
+   "chars": 29489
+  },
+  {
+   "file": "q10_pos010.html",
+   "qid": "q10",
+   "condition": "position",
+   "target_pos": 0.1,
+   "actual_pos": 0.104,
+   "chars": 29489
+  },
+  {
+   "file": "q10_pos025.html",
+   "qid": "q10",
+   "condition": "position",
+   "target_pos": 0.25,
+   "actual_pos": 0.253,
+   "chars": 29489
+  },
+  {
+   "file": "q10_pos040.html",
+   "qid": "q10",
+   "condition": "position",
+   "target_pos": 0.4,
+   "actual_pos": 0.401,
+   "chars": 29489
+  },
+  {
+   "file": "q10_pos050.html",
+   "qid": "q10",
+   "condition": "position",
+   "target_pos": 0.5,
+   "actual_pos": 0.5,
+   "chars": 29489
+  },
+  {
+   "file": "q10_pos060.html",
+   "qid": "q10",
+   "condition": "position",
+   "target_pos": 0.6,
+   "actual_pos": 0.602,
+   "chars": 29489
+  },
+  {
+   "file": "q10_pos075.html",
+   "qid": "q10",
+   "condition": "position",
+   "target_pos": 0.75,
+   "actual_pos": 0.751,
+   "chars": 29489
+  },
+  {
+   "file": "q10_pos090.html",
+   "qid": "q10",
+   "condition": "position",
+   "target_pos": 0.9,
+   "actual_pos": 0.9,
+   "chars": 29489
+  },
+  {
+   "file": "q10_pos100.html",
+   "qid": "q10",
+   "condition": "position",
+   "target_pos": 1.0,
+   "actual_pos": 0.999,
+   "chars": 29489
+  },
+  {
+   "file": "q10_summary_lure.html",
+   "qid": "q10",
+   "condition": "summary_lure",
+   "target_pos": 1.0,
+   "actual_pos": 0.999,
+   "chars": 29512
+  },
+  {
+   "file": "q10_summary_only.html",
+   "qid": "q10",
+   "condition": "summary_only",
+   "target_pos": null,
+   "actual_pos": null,
+   "chars": 29433
+  },
+  {
+   "file": "q11_pos000.html",
+   "qid": "q11",
+   "condition": "position",
+   "target_pos": 0.0,
+   "actual_pos": 0.002,
+   "chars": 29511
+  },
+  {
+   "file": "q11_pos010.html",
+   "qid": "q11",
+   "condition": "position",
+   "target_pos": 0.1,
+   "actual_pos": 0.104,
+   "chars": 29511
+  },
+  {
+   "file": "q11_pos025.html",
+   "qid": "q11",
+   "condition": "position",
+   "target_pos": 0.25,
+   "actual_pos": 0.253,
+   "chars": 29511
+  },
+  {
+   "file": "q11_pos040.html",
+   "qid": "q11",
+   "condition": "position",
+   "target_pos": 0.4,
+   "actual_pos": 0.401,
+   "chars": 29511
+  },
+  {
+   "file": "q11_pos050.html",
+   "qid": "q11",
+   "condition": "position",
+   "target_pos": 0.5,
+   "actual_pos": 0.5,
+   "chars": 29511
+  },
+  {
+   "file": "q11_pos060.html",
+   "qid": "q11",
+   "condition": "position",
+   "target_pos": 0.6,
+   "actual_pos": 0.602,
+   "chars": 29511
+  },
+  {
+   "file": "q11_pos075.html",
+   "qid": "q11",
+   "condition": "position",
+   "target_pos": 0.75,
+   "actual_pos": 0.751,
+   "chars": 29511
+  },
+  {
+   "file": "q11_pos090.html",
+   "qid": "q11",
+   "condition": "position",
+   "target_pos": 0.9,
+   "actual_pos": 0.9,
+   "chars": 29511
+  },
+  {
+   "file": "q11_pos100.html",
+   "qid": "q11",
+   "condition": "position",
+   "target_pos": 1.0,
+   "actual_pos": 0.999,
+   "chars": 29511
+  },
+  {
+   "file": "q11_summary_lure.html",
+   "qid": "q11",
+   "condition": "summary_lure",
+   "target_pos": 1.0,
+   "actual_pos": 0.999,
+   "chars": 29533
+  },
+  {
+   "file": "q11_summary_only.html",
+   "qid": "q11",
+   "condition": "summary_only",
+   "target_pos": null,
+   "actual_pos": null,
+   "chars": 29453
+  },
+  {
+   "file": "q12_pos000.html",
+   "qid": "q12",
+   "condition": "position",
+   "target_pos": 0.0,
+   "actual_pos": 0.001,
+   "chars": 29467
+  },
+  {
+   "file": "q12_pos010.html",
+   "qid": "q12",
+   "condition": "position",
+   "target_pos": 0.1,
+   "actual_pos": 0.104,
+   "chars": 29467
+  },
+  {
+   "file": "q12_pos025.html",
+   "qid": "q12",
+   "condition": "position",
+   "target_pos": 0.25,
+   "actual_pos": 0.253,
+   "chars": 29467
+  },
+  {
+   "file": "q12_pos040.html",
+   "qid": "q12",
+   "condition": "position",
+   "target_pos": 0.4,
+   "actual_pos": 0.401,
+   "chars": 29467
+  },
+  {
+   "file": "q12_pos050.html",
+   "qid": "q12",
+   "condition": "position",
+   "target_pos": 0.5,
+   "actual_pos": 0.5,
+   "chars": 29467
+  },
+  {
+   "file": "q12_pos060.html",
+   "qid": "q12",
+   "condition": "position",
+   "target_pos": 0.6,
+   "actual_pos": 0.602,
+   "chars": 29467
+  },
+  {
+   "file": "q12_pos075.html",
+   "qid": "q12",
+   "condition": "position",
+   "target_pos": 0.75,
+   "actual_pos": 0.751,
+   "chars": 29467
+  },
+  {
+   "file": "q12_pos090.html",
+   "qid": "q12",
+   "condition": "position",
+   "target_pos": 0.9,
+   "actual_pos": 0.9,
+   "chars": 29467
+  },
+  {
+   "file": "q12_pos100.html",
+   "qid": "q12",
+   "condition": "position",
+   "target_pos": 1.0,
+   "actual_pos": 0.999,
+   "chars": 29467
+  },
+  {
+   "file": "q12_summary_lure.html",
+   "qid": "q12",
+   "condition": "summary_lure",
+   "target_pos": 1.0,
+   "actual_pos": 0.999,
+   "chars": 29481
+  },
+  {
+   "file": "q12_summary_only.html",
+   "qid": "q12",
+   "condition": "summary_only",
+   "target_pos": null,
+   "actual_pos": null,
+   "chars": 29410
+  }
+ ],
+ "questions": [
+  {
+   "id": "q01",
+   "question": "架空社の製品 ZX-9 の年間生産能力は何台ですか？",
+   "answer": "架空社の製品 ZX-9 の年間生産能力は48,217台です。",
+   "answer_keys": [
+    "48217"
+   ],
+   "summary_lure_key": "3950",
+   "body_lure_keys": [
+    "31604",
+    "44580",
+    "52930"
+   ]
+  },
+  {
+   "id": "q02",
+   "question": "架空社の北灯工場の敷地面積は何平方メートルですか？",
+   "answer": "架空社の北灯工場の敷地面積は72,640平方メートルです。",
+   "answer_keys": [
+    "72640"
+   ],
+   "summary_lure_key": "58310",
+   "body_lure_keys": [
+    "41275",
+    "9860",
+    "66090"
+   ]
+  },
+  {
+   "id": "q03",
+   "question": "架空社の創業年は何年ですか？",
+   "answer": "架空社の創業は1957年です。",
+   "answer_keys": [
+    "1957"
+   ],
+   "summary_lure_key": "1983",
+   "body_lure_keys": [
+    "1996",
+    "1971",
+    "1924"
+   ]
+  },
+  {
+   "id": "q04",
+   "question": "架空社の湖畔研究所の所長は誰ですか？",
+   "answer": "架空社の湖畔研究所の所長は宮園澄香です。",
+   "answer_keys": [
+    "宮園"
+   ],
+   "summary_lure_key": "宮坂",
+   "body_lure_keys": [
+    "岸辺",
+    "葛城",
+    "早瀬"
+   ]
+  },
+  {
+   "id": "q05",
+   "question": "架空社の製品 ZX-9 の本体の保証期間は何か月ですか？",
+   "answer": "架空社の製品 ZX-9 の本体の保証期間は38か月です。",
+   "answer_keys": [
+    "38か月"
+   ],
+   "summary_lure_key": "14か月",
+   "body_lure_keys": [
+    "26か月",
+    "22か月",
+    "7か月"
+   ]
+  },
+  {
+   "id": "q06",
+   "question": "架空社の製品 ZX-9 の本体重量は何キログラムですか？",
+   "answer": "架空社の製品 ZX-9 の本体重量は236.4キログラムです。",
+   "answer_keys": [
+    "236.4"
+   ],
+   "summary_lure_key": "281.7",
+   "body_lure_keys": [
+    "198.2",
+    "450.5",
+    "17.3"
+   ]
+  },
+  {
+   "id": "q07",
+   "question": "架空社の連結従業員数は何名ですか？",
+   "answer": "架空社の連結従業員数は6,482名です。",
+   "answer_keys": [
+    "6482"
+   ],
+   "summary_lure_key": "2915",
+   "body_lure_keys": [
+    "9740",
+    "538",
+    "1276"
+   ]
+  },
+  {
+   "id": "q08",
+   "question": "架空社の製品 ZX-9 の定格消費電力は何ワットですか？",
+   "answer": "架空社の製品 ZX-9 の定格消費電力は1,870ワットです。",
+   "answer_keys": [
+    "1870"
+   ],
+   "summary_lure_key": "47.5",
+   "body_lure_keys": [
+    "1325",
+    "2640",
+    "315"
+   ]
+  },
+  {
+   "id": "q09",
+   "question": "架空社の本社はどの町にありますか？",
+   "answer": "架空社の本社は霧野町にあります。",
+   "answer_keys": [
+    "霧野"
+   ],
+   "summary_lure_key": "白砂",
+   "body_lure_keys": [
+    "宵ヶ丘",
+    "鈴鳴",
+    "柊台"
+   ]
+  },
+  {
+   "id": "q10",
+   "question": "架空社の製品 ZX-9 の部品点数は何点ですか？",
+   "answer": "架空社の製品 ZX-9 の部品点数は3,418点です。",
+   "answer_keys": [
+    "3418"
+   ],
+   "summary_lure_key": "2756",
+   "body_lure_keys": [
+    "1902",
+    "83種類",
+    "4105"
+   ]
+  },
+  {
+   "id": "q11",
+   "question": "架空社の製品 ZX-9 の希望小売価格はいくらですか？",
+   "answer": "架空社の製品 ZX-9 の希望小売価格は1,284,000円です。",
+   "answer_keys": [
+    "1284000"
+   ],
+   "summary_lure_key": "96800",
+   "body_lure_keys": [
+    "947000",
+    "38500",
+    "212600"
+   ]
+  },
+  {
+   "id": "q12",
+   "question": "架空社が保有する特許は何件ですか？",
+   "answer": "架空社が保有する特許は1,146件です。",
+   "answer_keys": [
+    "1146"
+   ],
+   "summary_lure_key": "382",
+   "body_lure_keys": [
+    "417",
+    "263",
+    "95件"
+   ]
+  }
+ ]
+}
